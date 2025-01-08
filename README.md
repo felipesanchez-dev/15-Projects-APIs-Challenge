@@ -2,10 +2,13 @@
 
 ## **¡Bienvenido a mi reto de desarrollo de aplicaciones con React Native!**  
 
-En este repositorio, estaré documentando mi progreso al crear **15 aplicaciones multiplataforma** utilizando **React Native**. El objetivo principal de este reto es:  
-- 🌐 Aprender y practicar la integración de **APIs** en diferentes contextos.  
-- 🎨 Diseñar aplicaciones funcionales, atractivas y centradas en el usuario.  
-- 📈 Mejorar mis habilidades técnicas y consolidar un portafolio profesional.  
+En este repositorio, estaré documentando mi progreso al crear 15 aplicaciones multiplataforma utilizando **React Native.**
+
+El objetivo principal de este reto es:
+- 🌐 Aprender y practicar la integración de APIs en diferentes contextos.
+- 🎨 Diseñar aplicaciones funcionales, atractivas y centradas en el usuario.
+- 🛠️ Trabajar tanto con APIs existentes como desarrollar mis propias APIs desde cero, con un énfasis en construir y mantener una arquitectura robusta.
+- 📈 Mejorar mis habilidades técnicas, consolidar un portafolio profesional y demostrar un enfoque práctico en el desarrollo de software.
 
 ---  
 
