@@ -58,9 +58,9 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
 
 ## **📚 Proyectos:**  
 
-| **#** | **Proyecto**                | **Tecnologías**       | **API usada**                     | **Enlace al Proyecto**   | **Estado**      |  
+| **#** | **Proyecto**                | **Tecnologías**       | **API usada**                     | **Enlace al Proyecto**   | **Estado**      |  | **Enlace de descarga .apk**      | 
 |-------|-----------------------------|-----------------------|------------------------------------|--------------------------|-----------------|  
-| 1     | 🌦️ Pronóstico del Clima     | React Native (Expo)   | [WeatherAPI](https://www.weatherapi.com) | [Repositorio](https://github.com/felipesanchez-dev/Pronostico-del-Clima)         | Terminado✅    |  
+| 1     | 🌦️ Pronóstico del Clima     | React Native (Expo)   | [WeatherAPI](https://www.weatherapi.com) | [Repositorio](https://github.com/felipesanchez-dev/Pronostico-del-Clima)         | Terminado✅    |  [Repositorio](https://github.com/felipesanchez-dev/Pronostico-del-Clima)  |
 
 ---  
 
