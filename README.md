@@ -61,7 +61,7 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
 | **#** | **Proyecto**                | **Tecnologías**       | **API Usada**                     | **Enlace al Proyecto**   | **Estado**      | **Enlace de descarga .apk**      |
 |-------|-----------------------------|-----------------------|-----------------------------------|--------------------------|-----------------|-----------------------------------|
 | 1     | 🌦️ Pronóstico del Clima     | React Native (Expo)   | [WeatherAPI](https://www.weatherapi.com) | [Repositorio](https://github.com/felipesanchez-dev/Pronostico-del-Clima) | Terminado ✅    | [APK](https://expo.dev/artifacts/eas/4HyspTxXZwrbuyKpq5TH5b.apk)                          |
-| 2     | 🗞 Aplicación de Noticias | React Native (Expo)  | [NewSData.IO](https://newsdata.io/) | [Repositorio](#) | En proceso...    | [APK](#)                          |
+| 2     | 🗞 Aplicación de Noticias | React Native (Expo)  | [NewSData.IO](https://newsdata.io/) | [Repositorio](#) | En proceso    | [APK](#)                          |
 ---  
 ---  
 
