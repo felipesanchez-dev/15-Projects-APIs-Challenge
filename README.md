@@ -63,6 +63,27 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
 | 1     | 🌦️ Pronóstico del Clima     | React Native (Expo)   | [WeatherAPI](https://www.weatherapi.com) | [Repositorio](https://github.com/felipesanchez-dev/Pronostico-del-Clima) | Terminado ✅    | [APK](https://github.com/felipesanchez-dev/Pronostico-del-Clima/raw/main/.apk%20demo/ClimaApp.apk)                          |
 | 2     | 🗞 Aplicación de Noticias | React Native (Expo)  | [NewSData.IO](https://newsdata.io/) | [Repositorio](https://github.com/felipesanchez-dev/app-noticias) |  Terminado ✅    | [APK](https://github.com/felipesanchez-dev/app-noticias/blob/main/apk/NoticiasGG.apk?raw=true)                          |
 ---  
+<div style="overflow-x: auto;">
+  <table>
+    <tr>
+      <th>#</th>
+      <th>Proyecto</th>
+      <th>Tecnologías</th>
+      <th>API Usada</th>
+      <th>Estado</th>
+      <th>Enlace</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>🌦️ Pronóstico del Clima</td>
+      <td>React Native (Expo)</td>
+      <td><a href="https://www.weatherapi.com">WeatherAPI</a></td>
+      <td>✅ Terminado</td>
+      <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima">Repositorio</a></td>
+    </tr>
+  </table>
+</div>
+
 ---  
 
 ## **🔓 Licencia y Uso**  
