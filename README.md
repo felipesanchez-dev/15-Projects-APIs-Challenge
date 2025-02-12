@@ -69,7 +69,7 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
       <th style="padding: 12px; border: 1px solid #ddd;">Repositorio</th>
       <th style="padding: 12px; border: 1px solid #ddd;">Link de descarga</th>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr>
       <td style="padding: 12px; border: 1px solid #ddd;">1</td>
       <td style="padding: 12px; border: 1px solid #ddd;">🌦️ Pronóstico del Clima</td>
       <td style="padding: 12px; border: 1px solid #ddd;">React Native (Expo)</td>
