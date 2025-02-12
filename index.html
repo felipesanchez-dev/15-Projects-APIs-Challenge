@@ -16,26 +16,28 @@
         header {
             background: linear-gradient(90deg, #6a11cb, #2575fc);
             color: #fff;
-            padding: 25px;
-            font-size: 1.5rem;
+            padding: 20px;
+            font-size: 1.3rem;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
         section {
             margin: 20px auto;
-            padding: 25px;
+            padding: 20px;
             background: #fff;
             border-radius: 12px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            max-width: 900px;
+            max-width: 90%;
         }
         table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 15px;
+            overflow-x: auto;
+            display: block;
         }
         th, td {
             border: 1px solid #ddd;
-            padding: 12px;
+            padding: 10px;
             text-align: center;
         }
         th {
@@ -62,6 +64,33 @@
         a:hover {
             text-decoration: underline;
         }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        @media (max-width: 768px) {
+            header {
+                font-size: 1.1rem;
+                padding: 15px;
+            }
+            table {
+                font-size: 0.9rem;
+                overflow-x: auto;
+            }
+            th, td {
+                padding: 8px;
+            }
+            section {
+                padding: 15px;
+            }
+            footer {
+                font-size: 0.9rem;
+                padding: 10px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -70,12 +99,12 @@
         <p>Aprendiendo y practicando la integración de APIs en React Native</p>
     </header>
     
-    <section class="intro">
+    <section>
         <h2>🎯 Detalles del reto</h2>
         <p>Creación de 15 aplicaciones multiplataforma utilizando React Native con APIs RESTful.</p>
     </section>
     
-    <section class="objectives">
+    <section>
         <h2>📌 Propósitos y Objetivos</h2>
         <ul>
             <li>🔍 Dominar el consumo de APIs RESTful</li>
@@ -84,41 +113,43 @@
         </ul>
     </section>
     
-    <section class="projects">
+    <section>
         <h2>📚 Proyectos</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Proyecto</th>
-                    <th>Tecnologías</th>
-                    <th>API Usada</th>
-                    <th>Repositorio</th>
-                    <th>Estado</th>
-                    <th>Descarga APK</th>
-                </tr>
-            </thead>
-            <tbody id="projects-table">
-                <tr>
-                    <td>1</td>
-                    <td>🌦️ Pronóstico del Clima</td>
-                    <td>React Native (Expo)</td>
-                    <td><a href="https://www.weatherapi.com" target="_blank">WeatherAPI</a></td>
-                    <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima" target="_blank">Repositorio</a></td>
-                    <td>✅ Terminado</td>
-                    <td><a href="https://expo.dev/artifacts/eas/4HyspTxXZwrbuyKpq5TH5b.apk" target="_blank">APK</a></td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>🗞 Aplicación de Noticias</td>
-                    <td>React Native (Expo)</td>
-                    <td><a href="https://newsdata.io/" target="_blank">NewsData.IO</a></td>
-                    <td><a href="#">Repositorio</a></td>
-                    <td>✅ Terminado</td>
-                    <td><a href="#">APK</a></td>
-                </tr>
-            </tbody>
-        </table>
+        <div style="overflow-x: auto;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Proyecto</th>
+                        <th>Tecnologías</th>
+                        <th>API Usada</th>
+                        <th>Repositorio</th>
+                        <th>Estado</th>
+                        <th>Descarga APK</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>🌦️ Pronóstico del Clima</td>
+                        <td>React Native (Expo)</td>
+                        <td><a href="https://www.weatherapi.com" target="_blank">WeatherAPI</a></td>
+                        <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima" target="_blank">Repositorio</a></td>
+                        <td>✅ Terminado</td>
+                        <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima/raw/main/.apk%20demo/ClimaApp.apk?raw=true" target="_blank">APK</a></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>🗞 Aplicación de Noticias</td>
+                        <td>React Native (Expo)</td>
+                        <td><a href="https://newsdata.io/" target="_blank">NewsData.IO</a></td>
+                        <td><a href="https://github.com/felipesanchez-dev/app-noticias" target="_blank">Repositorio</a></td>
+                        <td>✅ Terminado</td>
+                        <td><a href="https://github.com/felipesanchez-dev/app-noticias/blob/main/apk/NoticiasGG.apk?raw=true" target="_blank">APK</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </section>
     
     <footer>
