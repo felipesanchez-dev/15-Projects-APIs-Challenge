@@ -59,36 +59,37 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
 ## **📚 Proyectos:**  
 
   <div style="overflow-x: auto;">
-  <table>
-    <tr>
-      <th>#</th>
-      <th>Proyecto</th>
-      <th>Tecnologías</th>
-      <th>API Usada</th>
-      <th>Estado</th>
-      <th>Repositorio</th>
-      <th>Link de descarga</th>
+  <table style="width: 100%; border-collapse: collapse; text-align: left; font-family: Arial, sans-serif;">
+    <tr style="background-color: #4CAF50; color: white;">
+      <th style="padding: 12px; border: 1px solid #ddd;">#</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Proyecto</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Tecnologías</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">API Usada</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Estado</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Repositorio</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Link de descarga</th>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td style="padding: 12px; border: 1px solid #ddd;">1</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">🌦️ Pronóstico del Clima</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">React Native (Expo)</td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://www.weatherapi.com" style="color: #007BFF; text-decoration: none;">WeatherAPI</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd; color: green;">✅ Terminado</td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima" style="color: #007BFF; text-decoration: none;">🌦️ Repo</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima/raw/main/.apk%20demo/ClimaApp.apk?raw=true" style="color: #007BFF; text-decoration: none;">APK</a></td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>🌦️ Pronóstico del Clima</td>
-      <td>React Native (Expo)</td>
-      <td><a href="https://www.weatherapi.com">WeatherAPI</a></td>
-      <td>✅ Terminado</td>
-      <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima">🌦️ Pronóstico del Clima Repo</a></td>
-      <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima/raw/main/.apk%20demo/ClimaApp.apk?raw=true">APK</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>🗞 Noticias GG</td>
-      <td>React Native (Expo)</td>
-      <td><a href="https://newsdata.io/">NewSData.IO</a></td>
-      <td>✅ Terminado</td>
-      <td><a href="https://github.com/felipesanchez-dev/app-noticias">🗞 Noticias GG Repo</a></td>
-      <td><a href="https://github.com/felipesanchez-dev/app-noticias/blob/main/apk/NoticiasGG.apk?raw=true">APK</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd;">2</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">🗞 Noticias GG</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">React Native (Expo)</td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://newsdata.io/" style="color: #007BFF; text-decoration: none;">NewSData.IO</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd; color: green;">✅ Terminado</td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://github.com/felipesanchez-dev/app-noticias" style="color: #007BFF; text-decoration: none;">🗞 Repo</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://github.com/felipesanchez-dev/app-noticias/blob/main/apk/NoticiasGG.apk?raw=true" style="color: #007BFF; text-decoration: none;">APK</a></td>
     </tr>
   </table>
-</div>                    
+</div>
+               
 
 
 ---  
