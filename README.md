@@ -58,12 +58,7 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
 
 ## **📚 Proyectos:**  
 
-| **#** | **Proyecto**                | **Tecnologías**       | **API Usada**                     | **Enlace al Proyecto**   | **Estado**      | **Enlace de descarga .apk**      |
-|-------|-----------------------------|-----------------------|-----------------------------------|--------------------------|-----------------|-----------------------------------|
-| 1     | 🌦️ Pronóstico del Clima     | React Native (Expo)   | [WeatherAPI](https://www.weatherapi.com) | [Repositorio](https://github.com/felipesanchez-dev/Pronostico-del-Clima) | Terminado ✅    | [APK](https://github.com/felipesanchez-dev/Pronostico-del-Clima/raw/main/.apk%20demo/ClimaApp.apk)                          |
-| 2     | 🗞 Aplicación de Noticias | React Native (Expo)  | [NewSData.IO](https://newsdata.io/) | [Repositorio](https://github.com/felipesanchez-dev/app-noticias) |  Terminado ✅    | [APK](https://github.com/felipesanchez-dev/app-noticias/blob/main/apk/NoticiasGG.apk?raw=true)                          |
----  
-<div style="overflow-x: auto;">
+  <div style="overflow-x: auto;">
   <table>
     <tr>
       <th>#</th>
@@ -71,7 +66,8 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
       <th>Tecnologías</th>
       <th>API Usada</th>
       <th>Estado</th>
-      <th>Enlace</th>
+      <th>Repositorio</th>
+      <th>Link de descarga</th>
     </tr>
     <tr>
       <td>1</td>
@@ -79,10 +75,21 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
       <td>React Native (Expo)</td>
       <td><a href="https://www.weatherapi.com">WeatherAPI</a></td>
       <td>✅ Terminado</td>
-      <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima">Repositorio</a></td>
+      <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima">🌦️ Pronóstico del Clima Repo</a></td>
+      <td><a href="https://github.com/felipesanchez-dev/Pronostico-del-Clima/raw/main/.apk%20demo/ClimaApp.apk?raw=true">APK</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>🗞 Noticias GG</td>
+      <td>React Native (Expo)</td>
+      <td><a href="https://newsdata.io/">NewSData.IO</a></td>
+      <td>✅ Terminado</td>
+      <td><a href="https://github.com/felipesanchez-dev/app-noticias">🗞 Noticias GG Repo</a></td>
+      <td><a href="https://github.com/felipesanchez-dev/app-noticias/blob/main/apk/NoticiasGG.apk?raw=true">APK</a></td>
     </tr>
   </table>
-</div>
+</div>                    
+
 
 ---  
 
