@@ -39,15 +39,15 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
 
 ### **🎯 Objetivos específicos:**  
 1. **🔍 Dominar el consumo de APIs RESTful:**  
-   - Manejar datos dinámicos desde APIs externas.  
-   - Implementar autenticación, paginación y manejo eficiente de errores.  
+    - Manejar datos dinámicos desde APIs externas.  
+    - Implementar autenticación, paginación y manejo eficiente de errores.  
 
 2. **💡 Mejorar habilidades técnicas:**  
    - **Frontend:** Diseñar interfaces responsivas y atractivas.  
    - **Backend:** Implementar soluciones robustas para procesar datos de APIs.  
 
 3. **📤 Publicar proyectos terminados:**  
-   - Documentar cada aplicación en GitHub con claridad y profesionalismo.  
+    - Documentar cada aplicación en GitHub con claridad y profesionalismo.  
 
 ### **✨ Enfoques adicionales:**  
 - 🏎️ **Optimización del rendimiento:** Garantizar tiempos de carga mínimos y una experiencia fluida.  
@@ -60,7 +60,7 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
 
   <div style="overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse; text-align: left; font-family: Arial, sans-serif;">
-    <tr style="background-color: #4CAF50; color: white;">
+    <tr style="background-color:rgba(137, 76, 175, 0.16); color: white;">
       <th style="padding: 12px; border: 1px solid #ddd;">#</th>
       <th style="padding: 12px; border: 1px solid #ddd;">Proyecto</th>
       <th style="padding: 12px; border: 1px solid #ddd;">Tecnologías</th>
@@ -89,7 +89,6 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
     </tr>
   </table>
 </div>
-               
 
 
 ---  
