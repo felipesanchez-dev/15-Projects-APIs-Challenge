@@ -91,10 +91,10 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
       <td style="padding: 12px; border: 1px solid #ddd;">3</td>
       <td style="padding: 12px; border: 1px solid #ddd;">Finanzas</td>
       <td style="padding: 12px; border: 1px solid #ddd;">React Native (Expo)</td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://newsdata.io/" style="color: #007BFF; text-decoration: none;">NewSData.IO</a></td>
-      <td style="padding: 12px; border: 1px solid #ddd; color: green;">En proceso</td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://github.com/felipesanchez-dev/app-noticias" style="color: #007BFF; text-decoration: none;">🗞 Repo</a></td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><a href="https://github.com/felipesanchez-dev/app-noticias/blob/main/apk/NoticiasGG.apk?raw=true" style="color: #007BFF; text-decoration: none;">APK</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="#" style="color: #007BFF; text-decoration: none;">API</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd; color: green;">En proceso...</td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="#" style="color: #007BFF; text-decoration: none;">🗞 Repo</a></td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><a href="#?raw=true" style="color: #007BFF; text-decoration: none;">APK</a></td>
     </tr>
   </table>
 </div>
