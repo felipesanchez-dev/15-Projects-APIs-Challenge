@@ -89,7 +89,7 @@ Este reto representa más que un simple ejercicio técnico. Es una oportunidad p
     </tr>
     <tr>
       <td style="padding: 12px; border: 1px solid #ddd;">3</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">Finanzas</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">SmartWallet 🧠👛</td>
       <td style="padding: 12px; border: 1px solid #ddd;">React Native (Expo)</td>
       <td style="padding: 12px; border: 1px solid #ddd;"><a href="#" style="color: #007BFF; text-decoration: none;">API</a></td>
       <td style="padding: 12px; border: 1px solid #ddd; color: green;">En proceso...</td>
