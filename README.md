@@ -119,7 +119,6 @@ Si tienes preguntas, ideas o simplemente quieres compartir tu experiencia desarr
 **Correo:** [jfelipe9.121@gmail.com](mailto:jfelipe9.121@gmail.com)  
 **LinkedIn:** [felipereyessa](https://www.linkedin.com/in/felipereyessa)  
 **Sitio Web:** [Mi portafolio](https://pipedev.vercel.app/)  
-
 ---  
 
 ¡Gracias por visitar este repositorio! Espero que te inspire y te motive a emprender tus propios retos. 🚀  
