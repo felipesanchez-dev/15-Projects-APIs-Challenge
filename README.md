@@ -1,4 +1,4 @@
-# 🌟 Reto: 15 Proyectos con APIs 🚀  
+# 🌟 Reto: Proyectos con APIs 🚀  
 
 ## **¡Bienvenido a mi reto de desarrollo de aplicaciones con React Native!**  
 
